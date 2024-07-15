@@ -14,3 +14,8 @@ Open the index.html file in your web browser.
 Enter a task in the input box and click the "Add Task" button to add the task to the list.
 Click on a task to mark it as completed. Click again to unmark it.
 Click the cross sign (×) next to a task to remove it from the list.
+
+
+## Contribution:
+Open-source contributions are welcome! Feel free to fork the repo, create new features, or improve the existing ones.
+
